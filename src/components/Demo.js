@@ -16,7 +16,7 @@ const Demo = () => {
             See Free Image AI in Action
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Upload your photo and watch our AI transform it into a professional-quality image in real-time. 
+            Upload your photo and watch our AI transform it into a advanced-quality image in real-time. 
             No complex editing software required.
           </p>
         </div>
@@ -68,7 +68,7 @@ const Demo = () => {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
                   </div>
-                  <h4 className="font-semibold text-gray-900 mb-1">Professional Quality</h4>
+                  <h4 className="font-semibold text-gray-900 mb-1">advanced Quality</h4>
                   <p className="text-sm text-gray-600">Studio-grade results</p>
                 </div>
                 <div className="bg-white rounded-lg p-4 shadow-sm border">

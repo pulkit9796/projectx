@@ -64,7 +64,7 @@ const Footer = () => {
               <span>Free Image AI</span>
             </button>
             <p className="text-gray-400 mb-6 max-w-md">
-              Transform your photographs into professional photoshoots with our AI-powered 
+              Transform your photographs into advanced photoshoots with our AI-powered 
               photo enhancement technology. Perfect results in seconds.
             </p>
             

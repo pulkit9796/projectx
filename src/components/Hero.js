@@ -42,13 +42,13 @@ const Hero = () => {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
               Turn your photographs into{' '}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-blue-800">
-                professional photoshoots
+                advanced photoshoots
               </span>
             </h1>
 
             {/* Subheadline */}
             <p className="text-xl md:text-2xl text-gray-600 mb-8 leading-relaxed">
-              Transform ordinary photos into stunning professional images with our AI-powered photo enhancement technology. 
+              Transform ordinary photos into stunning advanced images with our AI-powered photo enhancement technology. 
               Perfect lighting, flawless skin, and magazine-quality results in seconds.
             </p>
 

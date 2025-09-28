@@ -5,7 +5,7 @@ const Testimonials = () => {
     {
       id: 1,
       name: "Sarah Johnson",
-      role: "Professional Photographer",
+      role: "advanced Photographer",
       company: "Sarah J Photography",
       avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=100&h=100&fit=crop&crop=face",
       content: "Free Image AI has revolutionized my workflow. What used to take hours of editing now takes minutes. The quality is incredible and my clients love the results.",
@@ -18,7 +18,7 @@ const Testimonials = () => {
       role: "E-commerce Owner",
       company: "TechGear Store",
       avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
-      content: "My product photos look like they were shot in a professional studio. Sales have increased by 40% since I started using Free Image AI for my listings.",
+      content: "My product photos look like they were shot in a advanced studio. Sales have increased by 40% since I started using Free Image AI for my listings.",
       rating: 5,
       verified: true
     },
@@ -28,7 +28,7 @@ const Testimonials = () => {
       role: "Real Estate Agent",
       company: "Premier Properties",
       avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
-      content: "The real estate enhancement feature is a game-changer. Properties sell 30% faster with these stunning photos. It's like having a professional photographer on demand.",
+      content: "The real estate enhancement feature is a game-changer. Properties sell 30% faster with these stunning photos. It's like having a advanced photographer on demand.",
       rating: 5,
       verified: true
     },
@@ -38,7 +38,7 @@ const Testimonials = () => {
       role: "Content Creator",
       company: "Digital Studio",
       avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
-      content: "As a content creator, I need high-quality images fast. Free Image AI delivers professional results in seconds. It's become an essential part of my creative process.",
+      content: "As a content creator, I need high-quality images fast. Free Image AI delivers advanced results in seconds. It's become an essential part of my creative process.",
       rating: 5,
       verified: true
     },
@@ -72,7 +72,7 @@ const Testimonials = () => {
             What Our Users Say
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Join thousands of professionals who trust Free Image AI to enhance their photos 
+            Join thousands of advanceds who trust Free Image AI to enhance their photos 
             and grow their business.
           </p>
         </div>

@@ -15,8 +15,8 @@ const Gallery = () => {
     {
       id: 1,
       category: 'portrait',
-      title: "Professional Headshots",
-      description: "Transform casual photos into professional headshots",
+      title: "advanced Headshots",
+      description: "Transform casual photos into advanced headshots",
       beforeImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
       afterImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face&auto=enhance&q=80",
       enhancement: "Face Enhancement + Lighting"
@@ -159,7 +159,7 @@ const Gallery = () => {
         <div className="mt-20 bg-white rounded-3xl p-8 md:p-12 shadow-lg">
           <div className="text-center mb-12">
             <h3 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
-              Trusted by Professionals Worldwide
+              Trusted by advanceds Worldwide
             </h3>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Join thousands of photographers, designers, and businesses who rely on Free Image AI 

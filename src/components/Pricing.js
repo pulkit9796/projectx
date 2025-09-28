@@ -31,7 +31,7 @@ const Pricing = () => {
     },
     {
       id: 2,
-      name: "Professional",
+      name: "advanced",
       description: "Ideal for photographers and content creators",
       monthlyPrice: 29,
       yearlyPrice: 290,
